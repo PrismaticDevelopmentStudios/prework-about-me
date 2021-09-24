@@ -5,6 +5,11 @@ body {
   background-image: linear-gradient(to right, rgb(81, 123, 238), rgb(134, 223, 235));
 }
 
+head {
+  margin: 0;
+  padding: 0;
+}
+
 .content-footer,
 .masthead-heading,
 .masthead-intro {
