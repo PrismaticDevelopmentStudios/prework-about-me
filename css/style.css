@@ -5,6 +5,11 @@ body {
   background-image: linear-gradient(to right, rgb(81, 123, 238), rgb(134, 223, 235));
 }
 
+head {
+  margin: 0;
+  padding: 0;
+}
+
 .content-footer,
 .masthead-heading,
 .masthead-intro {
@@ -12,10 +17,12 @@ body {
 }
 
 .masthead {
-  padding: 0;
+  padding: 6em 0;
   background-image: url('../img/code.jpg');
   background-size: cover;
   background-repeat: no-repeat;
+  border: 3px solid white;
+  box-shadow: 3px 4px 5px rgb(0, 0, 0, 0.5);
 }
 
 .masthead-intro {
