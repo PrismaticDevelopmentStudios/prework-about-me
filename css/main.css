@@ -23,6 +23,7 @@ tr:nth-child(odd) {
 img {
     width: 180px;
     height: 180px;
+    box-shadow: 3px 4px 5px rgb(0, 0, 0, 0.5);
 }
 
 #tracks {
