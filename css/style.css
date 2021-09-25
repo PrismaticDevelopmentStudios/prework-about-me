@@ -92,3 +92,27 @@ section>h1 {
   display: inline-block;
   margin: 0 5px;
 }
+
+.nav ul {
+  list-style-type: none;
+  padding: 1%;
+  background: white;
+}
+
+.nav li a {
+  padding: 1%;
+}
+
+.nav li {
+  display: inline;
+}
+
+/* Change the link color on hover */
+.nav li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+.title {
+  text-align: center;
+}
