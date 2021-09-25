@@ -101,6 +101,9 @@ section>h1 {
 
 .nav li a {
   padding: 1%;
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
 }
 
 .nav li {
