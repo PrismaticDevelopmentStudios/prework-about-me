@@ -101,7 +101,6 @@ section>h1 {
 
 .nav li a {
   padding: 1%;
-  color: white;
   font-weight: 600;
   text-decoration: none;
   border-radius: 5px;
@@ -114,7 +113,7 @@ section>h1 {
 /* Change the link color on hover */
 .nav li a:hover {
   background-color: #555;
-  color: white;
+  color: gold;
 }
 
 .title {
@@ -123,4 +122,12 @@ section>h1 {
 
 .footer-text {
   font-size: 1.5em;
+}
+
+.active {
+  color: gold;
+}
+
+.navlink {
+  color: white;
 }
