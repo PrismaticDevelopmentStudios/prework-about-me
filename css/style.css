@@ -131,3 +131,7 @@ section>h1 {
 .navlink {
   color: white;
 }
+
+th {
+  font-size: 2em;
+}
