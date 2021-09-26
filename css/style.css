@@ -112,8 +112,8 @@ section>h1 {
 
 /* Change the link color on hover */
 .nav li a:hover {
-  background-color: #555;
-  color: gold;
+  background-color: white;
+  color: rgb(81, 123, 238);
 }
 
 .title {
