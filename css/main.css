@@ -39,3 +39,7 @@ iframe {
     height: 25px;
     width: 25px;
 }
+
+.player-frame {
+    background: red;
+}
