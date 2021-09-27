@@ -53,11 +53,11 @@ function normalImg6() {
 }
 
 function mobile() {
-    if (window.innerWidth <= 1200) {
+    if (window.innerWidth <= 900) {
         document.getElementById('standard').style.display = "none";
         document.getElementById('mobile').style.display = "block";
         console.log('Mobile version', window.innerWidth)
-    } else if (window.innerWidth >= 1200) {
+    } else if (window.innerWidth >= 900) {
         document.getElementById('standard').style.display = "block";
         document.getElementById('mobile').style.display = "none";
         console.log('Nonmobile version', window.innerWidth)
