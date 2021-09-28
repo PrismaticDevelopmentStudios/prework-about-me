@@ -64,3 +64,11 @@ function mobile() {
     }
     console.log(window.innerWidth)
 }
+
+function video() {
+    document.getElementById('video').style.display = "block";
+}
+
+function hideVideo() {
+    document.getElementById('video').style.display = "none";
+}
