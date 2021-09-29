@@ -186,3 +186,7 @@ h5,
 h2 {
   margin: .25em;
 }
+
+p {
+  margin: 0;
+}
