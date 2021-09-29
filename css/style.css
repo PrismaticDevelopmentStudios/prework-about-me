@@ -181,3 +181,8 @@ th {
 .icon:hover {
   opacity: 0.5;
 }
+
+h5,
+h2 {
+  margin: .25em;
+}
